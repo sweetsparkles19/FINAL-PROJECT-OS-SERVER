@@ -1,3 +1,2 @@
-# FINAL-PROJECT-OS-SERVER
-Membuat Server Web Portofolio
+# Web Server Portofolio
 Menggunakan Ubuntu 22.02 Version
