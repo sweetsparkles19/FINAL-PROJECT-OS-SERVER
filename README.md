@@ -1,4 +1,4 @@
-# Web Server Portofolio
+# Web Server 
 Menggunakan Ubuntu 22.02 Version
 
 # Service yang digunakan
