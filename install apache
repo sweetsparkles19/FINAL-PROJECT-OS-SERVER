@@ -1,2 +1,12 @@
 # Instalasi Web Server (Apache)
-
+masuk dalam mode root
+$sudo su
+masukkan password for ubuntu
+$cd
+$apt-get install apache2
+$ifconfig
+ip : 192.168.56.105
+$sudo ufw app list
+$sudo systemctl start apache2
+$sudo systemctl status apache2
+Jika status sudah active maka ketika kita memasukkan ip kita pada chrome akan berhasil
