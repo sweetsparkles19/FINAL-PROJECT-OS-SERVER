@@ -1,0 +1,7 @@
+$cd /var/www/html
+$ls
+maka akan muncul output index.html
+kita buat folder baru dengan nama ainna
+$mkdir ainna
+Kita cek lagi pada chrome masukkan ip kita ditambah dengan /ainna
+http://192.168.56.105/ainna
